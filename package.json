@@ -15,7 +15,7 @@
 	"main": "send.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node send.js"
+		"start": "ts-node send.ts"
 	},
 	"keywords": [],
 	"author": "",
